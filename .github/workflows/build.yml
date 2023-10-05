@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [scrape]
+  schedule:
+    - cron: '0 8 * * *'
 
 jobs:
   build:

@@ -1,8 +1,8 @@
-### Hi. I'm Brennan Hitchcock. Welcome to my tiny corner of GitHub.
+### Hi. I'm Brennan!. Welcome to my tiny corner of GitHub. 👋
 
 #### **About Me**
-- **Interests:** .Net, Ruby on Rails, Testing
-- **[Writing](https://www.hitchcock.dev)**
+- ❤️ **Interests:** .Net, Ruby on Rails, Testing
+- ✍🏻 **[Writing](https://www.hitchcock.dev)**
 
 <hr />
 

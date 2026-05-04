@@ -1,7 +1,9 @@
-### Hi. I'm Brennan!. Welcome to my tiny corner of GitHub. 👋
+### Hi, I'm Brennan 👋
+
+I work on .NET infrastructure and AI tooling. Most of my work is in private repos; this is the public sliver.
 
 #### **About Me**
-- ❤️ **Interests:** .Net, Ruby on Rails, Testing
+- ❤️ **Interests:** .NET, distributed caching, MCP/RAG, AI-assisted development, the occasional Advent of Code
 - ✍🏻 **[Writing](https://www.hitchcock.dev)**
 
 <hr />

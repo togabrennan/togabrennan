@@ -2,13 +2,17 @@
 
 I work on .NET infrastructure and AI tooling. Most of my work is in private repos; this is the public sliver.
 
-#### **About Me**
-- ❤️ **Interests:** .NET, distributed caching, MCP/RAG, AI-assisted development, the occasional Advent of Code
-- ✍🏻 **[Writing](https://www.hitchcock.dev)**
+I write about engineering judgment at the staff-and-leadership boundary — hiring, RAG in production, and the decisions that don't show up in commit messages. Long-form work lives at **[hitchcock.dev](https://www.hitchcock.dev)**.
+
+#### What I'm into right now
+- Production RAG systems — retrieval that doesn't quietly fail
+- `.NET` distributed caching and the migrations nobody enjoys
+- AI dev tooling that respects multi-project setups
+- The occasional Advent of Code
 
 <hr />
 
-#### **Latest Blog Posts** 🚀
+#### Latest from the blog 🚀
 
 <!-- start latest posts -->
 - [If your RAG candidate says "cosine similarity" first, end the interview](https://hitchcock.dev/if-your-rag-candidate-says-cosine-similarity-first-end-the-interview/)
